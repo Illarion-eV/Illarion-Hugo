@@ -13,7 +13,7 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     background: black;
-    color: white;
+    color: #DDC687;
   }
 }
 .container[role=main] {
@@ -54,12 +54,12 @@ a {
 }
 @media (prefers-color-scheme: dark) {
   a {
-    color: #50afff;
+    color: #327345;
   }
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #327345;
 }
 blockquote {
   color: #808080;
